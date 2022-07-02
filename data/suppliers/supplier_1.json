@@ -1,0 +1,10 @@
+{
+  "supplierId": "supplier_1",
+  "items": {
+    "noel_1": 20,
+    "noel_2": 20,
+    "noel_3": 20,
+    "eco-responsable_1": 10,
+    "eco-responsable_2": 10
+  }
+}

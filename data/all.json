@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "APPAREIL À RACLETTE 2 PERSONNES",
+      "id": "noel_1",
+      "photo": "https://cdn.shopify.com/s/files/1/0322/9994/2026/products/appareil-a-raclette-2-personnes-490154_1100x.png?v=1630977606",
+      "price": 2195,
+      "category": "noel"
+    },
+    {
+      "title": "ASSORTIMENT DE 3 VASES EN CARTON PLIABLE ♻️🌱🇫🇷",
+      "id": "noel_2",
+      "photo": "https://cdn.shopify.com/s/files/1/0322/9994/2026/products/assortiment-de-3-vases-en-carton-pliable-307707_1100x.png?v=1630977606",
+      "price": 2195,
+      "category": "noel"
+    },
+    {
+      "title": "GUILLOTINE À SAUCISSON AVEC PLATEAU EN ARDOISE",
+      "id": "noel_3",
+      "photo": "https://cdn.shopify.com/s/files/1/0322/9994/2026/products/guillotine-a-saucisson-avec-plateau-en-ardoise-741489_1100x.png?v=1626737994",
+      "price": 2763,
+      "category": "eco-responsable_1"
+    },
+    {
+      "title": "EPONGE LAVABLE BIO - COSSE NATURE - CONFECTION FRANÇAISE 🌱🇫🇷",
+      "id": "eco-responsable_1",
+      "photo": "https://cdn.shopify.com/s/files/1/0322/9994/2026/products/pan-accessoiresalimentaires-1-PHOTO-SITELABEL_2_1100x.png?v=1626863552",
+      "price": 703,
+      "category": "eco-responsable"
+    },
+    {
+      "title": "KIT COUVERTS INDIVIDUEL GOBI ZERO DÉCHET - CONFECTION FRANÇAISE 🌱🇫🇷",
+      "id": "eco-responsable_2",
+      "photo": "https://cdn.shopify.com/s/files/1/0322/9994/2026/products/KitcouvertsindividuelGobiZeroD_C3_A9ch_C3_AAtpersonnalisable-France-Panopli-19206609043594_1100x.png?v=1626867831",
+      "price": 1792,
+      "category": "eco-responsable"
+    }
+  ]
+}
