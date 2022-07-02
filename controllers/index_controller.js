@@ -1,7 +1,7 @@
 async function getAll(req, res) {
   try {
     console.log("here");
-    let jsonData = require('./../data/all.json')
+    const jsonData = require('./../data/all.json')
     res.status(200);
     res.send(jsonData);
   } catch (error) {
@@ -11,14 +11,22 @@ async function getAll(req, res) {
 
 function getItem(req, res) {
   try {
-    console.log(req);
+    const itemId = req.params.id;
+    const path = `./../data/items/${itemId}.json`
+    const jsonData = require(path);
+    res.status(200);
+    res.send(jsonData);
   } catch (error) {
     return new Error("500 could not get item by id");
   }
 }
 function getStock(req, res) {
   try {
-    console.log(req);
+    const supplierId = req.params.id;
+    const path = `./../data/suppliers/${supplierId}.json`
+    const jsonData = require(path);
+    res.status(200);
+    res.send(jsonData);
   } catch (error) {
     return new Error("500 could not get item by id");
   }
