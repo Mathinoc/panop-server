@@ -9,10 +9,19 @@
   "price": 1792,
   "category": "eco-responsable",
   "description": "Ces couverts sont 100% Français : Fabriqués à Celles­ sur­ Durolle dans le Puy­de­Dôme par la manufacture VERDIER (fondée en 1859), et enfin assemblés à l'ESAT de Rosebrie à Mandres ­les­ Roses (Val de Marne).Les matériaux ont été sélectionnés avec soin pour concilier un plaisir d'utilisation maximum avec un impact écologique minimum : Les couverts sont fabriqués en acier inoxydable, issu à 80% du recyclage sourcé en France et en Belgique.L'alliage d'inox a été conçu sur­mesure pour Gobi, il ne rouille pas et ne contient pas de nickel, évitant ainsi les allergies. L'étui est ergonomique et durable fabriqué en Tritan, issu du recyclage des chutes de production des gourdes Gobi. Ce matériau ne contient ni Bisphénol A, ni Bisphénol S et n'a pas d'activité endocrinienne. Entretien : Léger et solide, il peut être lavé au lave­ vaisselle et gardé des dizaines et des dizaines d'années. Impacts : Comme tous les produits Gobi, la performance environnementale a été mesurée : les impacts de fabrication sont compensés par les bénéfices de l'utilisation au bout de 15 mois environ : alors un seul mot d'ordre #SorsTesCouverts.",
-  "caracteristics": {
-    "Poids": 116,
-    "Origine": "France",
-    "Délais de livraison en jours ouvrés": 15
-  },
+  "caracteristics": [
+    {
+      "key": "Poids",
+      "value": "116 g"
+    },
+    {
+      "key": "Origine",
+      "value": "France"
+    },
+    {
+      "key": "Délais de livraison en jours ouvrés",
+      "value": "15"
+    }
+  ],
   "supplierId": "supplier_1"
 }

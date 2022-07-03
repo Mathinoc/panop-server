@@ -10,9 +10,15 @@
   "price": 2195,
   "category": "noel",
   "description": "La saison des raclettes sonnera le glas quand il commencera à faire froid. N’attendez pas que la température chute pour commencer à vous équiper et choisissez dès maintenant cet appareil à raclette pour une soirée en tête à tête ! Vous misez tout sur votre winterbody ? Profitez de sa pierre en granit pour y faire dorer de délicieux légumes de saison.",
-  "caracteristics": {
-    "Poids": 1530,
-    "Délais de livraison en jours ouvrés": 15
-  },
+  "caracteristics": [
+    {
+      "key": "Poids",
+      "value": "1,530 kg"
+    },
+    {
+      "key": "Délais de livraison en jours ouvrés",
+      "value": "15"
+    }
+  ],
   "supplierId": "supplier_1"
 }

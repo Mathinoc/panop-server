@@ -1,6 +1,5 @@
 async function getAll(req, res) {
   try {
-    console.log("here");
     const jsonData = require('./../data/all.json')
     res.status(200);
     res.send(jsonData);

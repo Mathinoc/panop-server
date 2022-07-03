@@ -11,9 +11,15 @@
   "price": 703,
   "category": "eco-responsable",
   "description": "La guillotine à saucisson permet de présenter vos apéritifs de façon original et de couper facilement des fines tranches de saucissons au fur et à mesure de la soirée pour un apéro ultra convivial.",
-  "caracteristics": {
-    "Poids": 1740,
-    "Délais de livraison en jours ouvrés": 15
-  },
+  "caracteristics": [
+    {
+      "key": "Poids",
+      "value": "1,740 kg"
+    },
+    {
+      "key": "Délais de livraison en jours ouvrés",
+      "value": "15"
+    }
+  ],
   "supplierId": "supplier_1"
 }

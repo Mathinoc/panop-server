@@ -9,10 +9,19 @@
   "price": 2195,
   "category": "noel",
   "description": "\"Cache-Cache\" est un vase pliable en carton à utiliser autour d'une bouteille en plastique. Recyclé, comme le carton utilisé pour la fabrication de nos vases. Recyclées, comme les bouteilles à utiliser pour y mettre vos bouquets. Cet assortiment contient : 1 x cylindre 1 x losange 1 x ovale Vase monté à la main.",
-  "caracteristics": {
-    "Poids": 1065,
-    "Délais de livraison en jours ouvrés": 7,
-    "Dimension": "25x25"
-  },
+  "caracteristics": [
+    {
+      "key": "Poids",
+      "value": "1,065 kg"
+    },
+    {
+      "key": "Délais de livraison en jours ouvrés",
+      "value": "7"
+    },
+    {
+      "key": "Dimension",
+      "value": "25x25"
+    }
+  ],
   "supplierId": "supplier_1"
 }
